@@ -1,1 +1,1 @@
-# shopify-buy
+# Built with [primo](https://primo.af)
